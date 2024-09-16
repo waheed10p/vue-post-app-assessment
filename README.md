@@ -23,7 +23,6 @@ npm run dev
 ```
 
 ### Compile and Minify for Production
-### this will be used for the production enviorment
 ```sh
 npm run build
 ```
